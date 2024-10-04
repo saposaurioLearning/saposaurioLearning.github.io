@@ -1,0 +1,264 @@
+* {
+    
+    padding: 0;
+    user-select: none;
+    
+}
+
+body {
+    
+    background-color: black;
+    background: linear-gradient(to right, #f2709c, #ff9472);
+    display: grid;
+    grid-template-columns : repeat(4,1fr);
+    gap: 3rem;
+    margin-left: 60px; margin-top: 100px;
+    overflow-wrap: wrap;
+
+}
+
+
+.obj{
+
+    background-color: rgb(44, 11, 11);
+    width: 150px;
+    height: 100px;
+    box-shadow: 1px 1px 10px black;
+    text-align: center;
+    text-wrap: wrap;
+    transition: all ease 0.9s;
+}   
+
+.obj h1{
+
+    color: white;
+    font-weight: bold;
+    font-family: monospace;
+    vertical-align: middle;
+    line-height: 60px;
+
+}
+
+.obj:hover{
+
+    transform: scale(1.1);
+    cursor: pointer;
+
+
+}
+
+#enero:hover{
+
+    transition: all ease 2s;
+    background-image: url(https://res.cloudinary.com/dz9ybycm6/image/upload/v1728060894/enero_jasbcx.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+    
+}
+
+#febrero:hover{
+
+    transition: all ease 2s;
+    background-image: url(https://res.cloudinary.com/dz9ybycm6/image/upload/v1728060894/febrero_ko14yn.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 100px; 
+
+}
+
+#marzo:hover{
+
+    transition: all ease 2s;
+    background-image: url(https://res.cloudinary.com/dz9ybycm6/image/upload/v1728060901/MARZO_tqlqw9.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+
+}
+
+#abril:hover{
+
+
+    transition: all ease 2s;
+    background-image: url(https://res.cloudinary.com/dz9ybycm6/image/upload/v1728060895/ABRIL_nitqrw.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+
+
+}
+
+#mayo:hover{
+
+    transition: all ease 2s;
+    background-image: url(https://res.cloudinary.com/dz9ybycm6/image/upload/v1728060895/MAYO_ugbksx.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 100px;
+
+
+}
+
+#junio:hover{
+
+    transition: all ease 2s;
+    background-image: url(https://res.cloudinary.com/dz9ybycm6/image/upload/v1728058049/JUNIO_houolo.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+
+}
+
+#julio:hover{
+
+
+    transition: all ease 2s;
+    background-image: url(https://res.cloudinary.com/dz9ybycm6/image/upload/v1728058048/JULIO_nwltqc.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+
+}
+
+#agosto:hover{
+
+    transition: all ease 2s;
+    background-image: url(https://res.cloudinary.com/dz9ybycm6/image/upload/v1728058047/agosto_h2o3ry.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+
+}
+
+#septiembre:hover{
+
+    transition: all ease 2s;
+    background-image: url(https://res.cloudinary.com/dz9ybycm6/image/upload/v1728058047/sept_vjc9bl.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+
+}
+
+#octubre:hover{
+
+    transition: all ease 2s;
+    background-image: url(https://res.cloudinary.com/dz9ybycm6/image/upload/v1728057672/tubre_mmp5xb.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 50px; padding-right: 50px;
+
+}
+
+#noviembre:hover{
+
+    transition: all ease 2s;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+
+}
+
+#diciembre:hover{
+
+    transition: all ease 2s;
+    background-image: url();
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+
+}
+
+#enero h1:hover{
+
+    opacity: 0;
+
+}
+
+#febrero h1:hover{
+
+    opacity: 0;
+
+}
+
+#marzo h1:hover{
+
+    opacity: 0;
+
+}
+
+#abril h1:hover{
+
+    opacity: 0;
+
+}
+
+#mayo h1:hover{
+
+    opacity: 0;
+
+}
+
+#junio h1:hover{
+
+    opacity: 0;
+
+}
+
+#julio h1:hover{
+
+    opacity: 0;
+
+}
+
+#agosto h1:hover{
+
+    opacity: 0;
+
+}
+
+#octubre h1:hover{
+
+    opacity: 0;
+
+}
+
+#noviembre h1:hover{
+
+    opacity: 0;
+
+}
+
+#diciembre h1:hover{
+
+    opacity: 0;
+
+}
+
+#septiembre h1:hover{
+
+    opacity: 0;
+
+}
+
+
+
+
+
+
+
+
+
